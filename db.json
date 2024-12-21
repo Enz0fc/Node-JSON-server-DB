@@ -1,0 +1,60 @@
+{
+  "profesores": [
+    {
+      "nombre": "Enzo",
+      "apellido": "Fernandez",
+      "materias": [
+        {
+          "nombre": "NODE JS desde cero"
+        },
+        {
+          "nombre": "REACT JS desde cero"
+        },
+        {
+          "nombre": "JAVASCRIPT desde cero"
+        }
+      ],
+      "id": "1e0c"
+    }
+  ],
+  "alumnos": [
+    {
+      "nombre": "Juan",
+      "apellido": "Caceres",
+      "promedio": 8.2,
+      "id": "a5f3"
+    },
+    {
+      "nombre": "Rodolfo",
+      "apellido": "El reno",
+      "promedio": 9.5,
+      "id": "a9be"
+    },
+    {
+      "id": "ea18",
+      "nombre": "Alberto",
+      "apellido": "Meza",
+      "promedio": 10
+    }
+  ],
+  "cursos": [
+    {
+      "nombre": "NODE JS desde cero",
+      "duracion": 7,
+      "dificultad": "intermedia",
+      "id": "b825"
+    },
+    {
+      "nombre": "REACT JS desde cero",
+      "duracion": 8,
+      "dificultad": "intermedia",
+      "id": "609d"
+    },
+    {
+      "nombre": "ANGULAR desde cero",
+      "duracion": 8,
+      "dificultad": "alta",
+      "id": "63de"
+    }
+  ]
+}

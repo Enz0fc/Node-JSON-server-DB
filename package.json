@@ -1,0 +1,11 @@
+{
+  "name": "proyecto_json_server",
+  "version": "0.0.1",
+  "description": "Armaremos un pequeño servidor con informacion de cursos",
+  "main": "app.js",
+  "scripts": {
+    "start": "json-server --watch db.json"
+  },
+  "author": "Enzo Fernandez",
+  "license": "ISC"
+}
